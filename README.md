@@ -21,7 +21,7 @@
 ---
 
 <p align="center">
-  <img alt="Imagem da Aplicação" src="localstorage.jpg" />
+  <img alt="Imagem da Aplicação" src="bgshadow.jpg" />
 </p>
 
 ---
