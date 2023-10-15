@@ -56,7 +56,7 @@ Um text-shadow que se move junto com o mouse, feito com javaScript puro
 Para copiar o projeto, utilize os comandos:
 
 ```bash
-  ❯ git clone https://github.com/Talison-Miguel/Lista-com-LocalStorage.git
+  ❯ git clone https://github.com/Talison-Miguel/Sombra-que-se-move-com-o-mouse.git
 ```
 
 ---
